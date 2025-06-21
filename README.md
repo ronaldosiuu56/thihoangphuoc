@@ -6,9 +6,9 @@ Tôi là học sinh đam mê Trí tuệ Nhân tạo (AI) và Khoa học Dữ li�
 
 ## 🚀 Dự án cá nhân
 
-### 1. Ứng dụng Quản lý Công việc
+### 1. Ứng dụng Quản lý Trang Web               
 - **Link demo**: [Xem tại đây](https://github.com/quangmanthi/todo-app)
-- **Công nghệ**: React, Firebase
+- **Công nghệ**: HTML, CSS
 - **Mô tả**: Ứng dụng quản lý công việc đa nền tảng, có hỗ trợ đăng nhập Google.
 
 ---
