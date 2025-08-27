@@ -10,7 +10,7 @@ Tôi là học sinh đam mê Trí tuệ Nhân tạo (AI) và Khoa học Dữ li�
 - **Link demo**: [Xem tại đây](https://github.com/quangmanthi/todo-app)
 - **Công nghệ**: HTML, CSS
 - **Mô tả**: Ứng dụng quản lý công việc đa nền tảng, có hỗ trợ đăng nhập Google.
-
+- **TryHackMe**: https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5070412
 ---
 
 ## 📜 Chứng chỉ
